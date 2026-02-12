@@ -9,7 +9,7 @@ const messages = [
   "Too late 😏💘(I LOVE YOU💖)",
   "I knew it 😌💖(I LOVE YOU💖)",
   "You had no choice anyway 😈(I LOVE YOU💖)",
-  "Best decision ever 🥰",
+  "Best decision ever 🥰(I LOVE YOU💖)",
   "Congrats! You're stuck with me💖 😂(I LOVE YOU💖)"
 ];
 
@@ -70,3 +70,4 @@ yesBtn.addEventListener("click", () => {
   noBtn.style.display = "none";
   yesBtn.style.display = "none";
 });
+
